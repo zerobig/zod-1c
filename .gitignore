@@ -1,0 +1,30 @@
+# Временные файлы и бэкапы 1С
+*.tmp
+*.bak
+*.1sb
+*.log
+DumpFilesIndex.txt
+ConfigDumpInfo.xml
+
+# Файлы баз данных и хранилищ
+*.1CD
+*.CD
+*.dt
+*.cf.bak
+*.cfe.bak
+
+# Служебные папки 1С:EDT / Eclipse
+.metadata/
+bin/
+ParentConfigurations/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Локальные настройки IDE и редакторов
+.vscode/
+.idea/
+*.suo
+*.user
