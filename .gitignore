@@ -1,30 +1,26 @@
-# Временные файлы и бэкапы 1С
+# Служебные файлы 1С
+*.cf
+*.cfu
+*.cfe
+*.epf
+*.erf
+*.dt
+*.cd
+*.mdo
+
+# Кэш конфигуратора
+*.cfl
+*.cflx
+
+# Временные файлы
+~*
 *.tmp
 *.bak
-*.1sb
-*.log
-DumpFilesIndex.txt
-ConfigDumpInfo.xml
-
-# Файлы баз данных и хранилищ
-*.1CD
-*.CD
-*.dt
-*.cf.bak
-*.cfe.bak
-
-# Служебные папки 1С:EDT / Eclipse
-.metadata/
-bin/
-ParentConfigurations/
-
-# Системные файлы
+*.swp
 .DS_Store
 Thumbs.db
-__MACOSX/
 
-# Локальные настройки IDE и редакторов
-.vscode/
-.idea/
-*.suo
-*.user
+# Каталоги сборки
+/build/
+/dist/
+/out/
