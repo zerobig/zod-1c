@@ -40,7 +40,7 @@
 		<Metadata name="CommonModule.Zod_УтилитыТесты.Module" id="aad09df8-9566-43fd-9618-8de03ab1a665.0" configVersion="1fb2995516d5501e74ecbefd1bdba1bba4320bca"/>
 		<Metadata name="CommonModule.Zod_ЧислоТесты" id="a95df683-805c-4065-a645-f95ca3072e43" configVersion="01bda62be39641a2257d72a1fb5fba5e9180224c"/>
 		<Metadata name="CommonModule.Zod_ЧислоТесты.Module" id="a95df683-805c-4065-a645-f95ca3072e43.0" configVersion="03bbf10725a6cc7397521c85fae2b5d68052345f"/>
-		<Metadata name="Configuration.zod_1c" id="36d7434f-8f08-422c-b6f9-7f8510a273e6" configVersion="a370f7ebf888e65f6c23d75bde2c0890487be661"/>
+		<Metadata name="Configuration.zod_1c" id="36d7434f-8f08-422c-b6f9-7f8510a273e6" configVersion="d21fc4c97faf04b92ed01578b5957357fe2da54a"/>
 		<Metadata name="DataProcessor.Zod_Проверка_ИНН" id="4ef34fbb-3755-4470-8ae1-8b628f6d3f63" configVersion="36310480c9d0f29a52b4d57b6fdca4c2b3dc8e34"/>
 		<Metadata name="DataProcessor.Zod_Проверка_ИНН.ObjectModule" id="4ef34fbb-3755-4470-8ae1-8b628f6d3f63.0" configVersion="3098596b4c6b770ce66032a31680d5c075c4d552"/>
 		<Metadata name="DataProcessor.Zod_Схема" id="d392563f-d408-4652-8fbd-1f2233ec6519" configVersion="42b6cc37ee50c47e2cea7e0b29dfb5bfc3512854"/>
