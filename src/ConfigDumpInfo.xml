@@ -3,7 +3,7 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.Zod_Справочник1" id="380550bb-d767-4443-bb6b-399452a5a27c" configVersion="110960a478deb182ee775708774007e597967f93"/>
 		<Metadata name="CommonModule.Zod" id="2b135128-d5a0-4165-a695-170fa0d7e17e" configVersion="e6ab9ad37537357a56a7d7b65f94f4cd746e21e8"/>
-		<Metadata name="CommonModule.Zod.Module" id="2b135128-d5a0-4165-a695-170fa0d7e17e.0" configVersion="164e7987fa907a8360c9ebfcf907b0cde799c648"/>
+		<Metadata name="CommonModule.Zod.Module" id="2b135128-d5a0-4165-a695-170fa0d7e17e.0" configVersion="41847a971d2b9df5936e8d952aae4d7161d4e4f6"/>
 		<Metadata name="CommonModule.Zod_БулевоТесты" id="c125259e-5122-4180-bf73-aef657ccc36a" configVersion="f8c31c653eaa44309d6bd838c587e87ed8254622"/>
 		<Metadata name="CommonModule.Zod_БулевоТесты.Module" id="c125259e-5122-4180-bf73-aef657ccc36a.0" configVersion="6298f84ac77f0adb5bc9522012bad0e06c34532d"/>
 		<Metadata name="CommonModule.Zod_ДатаТесты" id="b2fe82f9-effc-45ab-9a70-6121ad9754ed" configVersion="f132c87f8d29500c69f4eb2372a392f811380f3f"/>
@@ -12,8 +12,12 @@
 		<Metadata name="CommonModule.Zod_ДопускаетNullТесты.Module" id="8895954c-47b2-43d1-8657-eab3cbb23034.0" configVersion="e3156c55906797b1e8c5354c54c06f8b7476132b"/>
 		<Metadata name="CommonModule.Zod_ЗаписьТесты" id="1c90e101-7f30-4663-90d0-4f34b8d2701c" configVersion="3a4049fd462aaac4fc4d68fef6b8d3209e0a33d2"/>
 		<Metadata name="CommonModule.Zod_ЗаписьТесты.Module" id="1c90e101-7f30-4663-90d0-4f34b8d2701c.0" configVersion="a8da7400aceeb9a8215b01ebe832b539acaae3a8"/>
+		<Metadata name="CommonModule.Zod_КомпозицияТесты" id="bb9b96c1-b776-4bc3-9ff7-06590ae16235" configVersion="3c1e08f6a36bb863e755099bdbb2381baa958681"/>
+		<Metadata name="CommonModule.Zod_КомпозицияТесты.Module" id="bb9b96c1-b776-4bc3-9ff7-06590ae16235.0" configVersion="4557a2c0d591061a76ca71859e6303b8b805ae6b"/>
 		<Metadata name="CommonModule.Zod_ЛитералИДискриминированноеОбъединениеТесты" id="8ac8adc8-cc52-4926-b558-58b341c4ac22" configVersion="2efbd616eb030c38a82a61c7af6e1065b8466c05"/>
 		<Metadata name="CommonModule.Zod_ЛитералИДискриминированноеОбъединениеТесты.Module" id="8ac8adc8-cc52-4926-b558-58b341c4ac22.0" configVersion="17cd4068cf6b2f6f2be104fc8909078f086cbc6b"/>
+		<Metadata name="CommonModule.Zod_МанипуляцииПолямиТесты" id="38d2d75c-41de-43fc-aeff-c05aba308382" configVersion="948a141fc48d969ada1b136fe55f06ffc5795ef1"/>
+		<Metadata name="CommonModule.Zod_МанипуляцииПолямиТесты.Module" id="38d2d75c-41de-43fc-aeff-c05aba308382.0" configVersion="55a20f12885eb2891ebcfe31f1ff3e1956580879"/>
 		<Metadata name="CommonModule.Zod_МассивТесты" id="7a3e7282-0f7e-43dd-abb0-53a7e151f2a2" configVersion="bdf4092ffb4fd21a1ff028a7cba541422d2da9be"/>
 		<Metadata name="CommonModule.Zod_МассивТесты.Module" id="7a3e7282-0f7e-43dd-abb0-53a7e151f2a2.0" configVersion="3376472052675f9cae833d447648cff55e213b53"/>
 		<Metadata name="CommonModule.Zod_МетаданныеТесты" id="02d8af93-c71b-40e3-850b-4e0d8697a6b9" configVersion="b0cf2bf4f5844bd9bb78e7f65532200d55f77f79"/>
@@ -28,6 +32,8 @@
 		<Metadata name="CommonModule.Zod_ПараметрыЗапросаТесты.Module" id="b27c45aa-237b-46b1-afda-e55be0d17c5d.0" configVersion="f0394fc52aabe1de4158989f0ad38a5ca8edfb47"/>
 		<Metadata name="CommonModule.Zod_ПеречислениеТесты" id="a6627c04-3fa7-4c15-b0a2-10bb9e85d483" configVersion="160af7819f5b7507315ffbea0a0df92d0930212e"/>
 		<Metadata name="CommonModule.Zod_ПеречислениеТесты.Module" id="a6627c04-3fa7-4c15-b0a2-10bb9e85d483.0" configVersion="93f81b608c32f1cbc49c03e5906578598dd60e27"/>
+		<Metadata name="CommonModule.Zod_ПоУмолчанию_ПойматьТесты" id="d26b13f7-f193-4795-87ed-9d2a308bdaaf" configVersion="c80ed2d81e413b2ea117b5ebc8abf21d475d5e62"/>
+		<Metadata name="CommonModule.Zod_ПоУмолчанию_ПойматьТесты.Module" id="d26b13f7-f193-4795-87ed-9d2a308bdaaf.0" configVersion="7d34a3324e8b07f7e8a0cbdd308ad273f3db0b80"/>
 		<Metadata name="CommonModule.Zod_ПроверкаТесты" id="1c01c8be-d806-429e-9f89-d267d786d373" configVersion="c4371f3acc9ef6eb2d1dea17d340653e440ddf10"/>
 		<Metadata name="CommonModule.Zod_ПроверкаТесты.Module" id="1c01c8be-d806-429e-9f89-d267d786d373.0" configVersion="b2b85a27cd8407fab1af313c596f8521b9c2ee35"/>
 		<Metadata name="CommonModule.Zod_СоздатьПустойТесты" id="607b52de-8ba9-4bdc-98ac-2ae2b3e73625" configVersion="9bd93db2df40b208f59bc9166161f26cc4bb3096"/>
@@ -40,13 +46,15 @@
 		<Metadata name="CommonModule.Zod_УтилитыТесты.Module" id="aad09df8-9566-43fd-9618-8de03ab1a665.0" configVersion="1fb2995516d5501e74ecbefd1bdba1bba4320bca"/>
 		<Metadata name="CommonModule.Zod_ЧислоТесты" id="a95df683-805c-4065-a645-f95ca3072e43" configVersion="01bda62be39641a2257d72a1fb5fba5e9180224c"/>
 		<Metadata name="CommonModule.Zod_ЧислоТесты.Module" id="a95df683-805c-4065-a645-f95ca3072e43.0" configVersion="03bbf10725a6cc7397521c85fae2b5d68052345f"/>
-		<Metadata name="Configuration.zod_1c" id="36d7434f-8f08-422c-b6f9-7f8510a273e6" configVersion="d21fc4c97faf04b92ed01578b5957357fe2da54a"/>
+		<Metadata name="Configuration.zod_1c" id="36d7434f-8f08-422c-b6f9-7f8510a273e6" configVersion="80d2a178972ec8e0fa1f7dcb9ea19924d14f9e5a"/>
 		<Metadata name="DataProcessor.Zod_Проверка_ИНН" id="4ef34fbb-3755-4470-8ae1-8b628f6d3f63" configVersion="36310480c9d0f29a52b4d57b6fdca4c2b3dc8e34"/>
 		<Metadata name="DataProcessor.Zod_Проверка_ИНН.ObjectModule" id="4ef34fbb-3755-4470-8ae1-8b628f6d3f63.0" configVersion="3098596b4c6b770ce66032a31680d5c075c4d552"/>
 		<Metadata name="DataProcessor.Zod_Схема" id="d392563f-d408-4652-8fbd-1f2233ec6519" configVersion="42b6cc37ee50c47e2cea7e0b29dfb5bfc3512854"/>
-		<Metadata name="DataProcessor.Zod_Схема.ObjectModule" id="d392563f-d408-4652-8fbd-1f2233ec6519.0" configVersion="80a4496896cbd8d9a733e4069272caa964087b13"/>
-		<Metadata name="DataProcessor.Zod_Тест_Проверка" id="7c18e06f-dd9d-4ae2-bff3-56fc510013ec" configVersion="a6de4ed3538d2c49b36478f234cfb2945d932b24"/>
+		<Metadata name="DataProcessor.Zod_Схема.ObjectModule" id="d392563f-d408-4652-8fbd-1f2233ec6519.0" configVersion="7e86c6c37f9df524ca84b69335d895f40a1b6fa2"/>
+		<Metadata name="DataProcessor.Zod_Тест_Проверка" id="7c18e06f-dd9d-4ae2-bff3-56fc510013ec" configVersion="68a828757dc2dcf85f7b7376f9ef644ab5614c0b"/>
 		<Metadata name="DataProcessor.Zod_Тест_Проверка.ObjectModule" id="7c18e06f-dd9d-4ae2-bff3-56fc510013ec.0" configVersion="e8d5be5fb12f82c8b5222a0b108cc392dfd71105"/>
+		<Metadata name="DataProcessor.Zod_Тест_ПроверкаСИсключением" id="24599b8a-1214-4999-b921-a7dfc6bb1c4f" configVersion="abd09b6bea444248652c138ccca55406a101c049"/>
+		<Metadata name="DataProcessor.Zod_Тест_ПроверкаСИсключением.ObjectModule" id="24599b8a-1214-4999-b921-a7dfc6bb1c4f.0" configVersion="2591dacb43f8e5bb50ad5501cddbb44efeb66eb5"/>
 		<Metadata name="DataProcessor.Zod_Трансформер_ПустоеВНеопределено" id="16782a2c-805d-4f9a-986c-839865c82b34" configVersion="5d6759c07fe30637716bd836dc0492cbffa1330e"/>
 		<Metadata name="DataProcessor.Zod_Трансформер_ПустоеВНеопределено.ObjectModule" id="16782a2c-805d-4f9a-986c-839865c82b34.0" configVersion="1858ed207bfa06c05f68667e4d5fdbf424cc6935"/>
 		<Metadata name="DataProcessor.Zod_Трансформер_Телефон" id="c67c1816-a644-4335-81c7-b64593f4ae9f" configVersion="c6dd5d961fb551a2496d1cf81148f7a73264be6f"/>

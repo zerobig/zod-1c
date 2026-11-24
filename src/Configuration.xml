@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>0.1.0</Version>
+			<Version>0.2.0</Version>
 			<Caption/>
 			<ShortCaption/>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
@@ -67,7 +67,11 @@
 			<CommonModule>Zod</CommonModule>
 			<CommonModule>Zod_БулевоТесты</CommonModule>
 			<CommonModule>Zod_ДатаТесты</CommonModule>
+			<CommonModule>Zod_ДопускаетNullТесты</CommonModule>
 			<CommonModule>Zod_ЗаписьТесты</CommonModule>
+			<CommonModule>Zod_КомпозицияТесты</CommonModule>
+			<CommonModule>Zod_ЛитералИДискриминированноеОбъединениеТесты</CommonModule>
+			<CommonModule>Zod_МанипуляцииПолямиТесты</CommonModule>
 			<CommonModule>Zod_МассивТесты</CommonModule>
 			<CommonModule>Zod_МетаданныеТесты</CommonModule>
 			<CommonModule>Zod_ОбъединениеТесты</CommonModule>
@@ -75,19 +79,19 @@
 			<CommonModule>Zod_ОбъектТесты</CommonModule>
 			<CommonModule>Zod_ПараметрыЗапросаТесты</CommonModule>
 			<CommonModule>Zod_ПеречислениеТесты</CommonModule>
+			<CommonModule>Zod_ПоУмолчанию_ПойматьТесты</CommonModule>
 			<CommonModule>Zod_ПроверкаТесты</CommonModule>
 			<CommonModule>Zod_СоздатьПустойТесты</CommonModule>
 			<CommonModule>Zod_СсылкаТесты</CommonModule>
 			<CommonModule>Zod_СтрокаТесты</CommonModule>
 			<CommonModule>Zod_УтилитыТесты</CommonModule>
 			<CommonModule>Zod_ЧислоТесты</CommonModule>
-			<CommonModule>Zod_ДопускаетNullТесты</CommonModule>
-			<CommonModule>Zod_ЛитералИДискриминированноеОбъединениеТесты</CommonModule>
 			<Catalog>Zod_Справочник1</Catalog>
 			<Document>Zod_Документ1</Document>
 			<DataProcessor>Zod_Проверка_ИНН</DataProcessor>
 			<DataProcessor>Zod_Схема</DataProcessor>
 			<DataProcessor>Zod_Тест_Проверка</DataProcessor>
+			<DataProcessor>Zod_Тест_ПроверкаСИсключением</DataProcessor>
 			<DataProcessor>Zod_Трансформер_ПустоеВНеопределено</DataProcessor>
 			<DataProcessor>Zod_Трансформер_Телефон</DataProcessor>
 		</ChildObjects>
