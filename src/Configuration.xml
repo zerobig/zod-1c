@@ -65,6 +65,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>Zod</CommonModule>
+			<CommonModule>Zod_АдаптерТрансформераТесты</CommonModule>
 			<CommonModule>Zod_БулевоТесты</CommonModule>
 			<CommonModule>Zod_ДатаТесты</CommonModule>
 			<CommonModule>Zod_ДопускаетNullТесты</CommonModule>
@@ -77,6 +78,7 @@
 			<CommonModule>Zod_ОбъединениеТесты</CommonModule>
 			<CommonModule>Zod_Объект1СТесты</CommonModule>
 			<CommonModule>Zod_ОбъектТесты</CommonModule>
+			<CommonModule>Zod_ОстановкаНаПервойОшибкеТесты</CommonModule>
 			<CommonModule>Zod_ПараметрыЗапросаТесты</CommonModule>
 			<CommonModule>Zod_ПеречислениеТесты</CommonModule>
 			<CommonModule>Zod_ПоУмолчанию_ПойматьТесты</CommonModule>
@@ -88,12 +90,14 @@
 			<CommonModule>Zod_ЧислоТесты</CommonModule>
 			<Catalog>Zod_Справочник1</Catalog>
 			<Document>Zod_Документ1</Document>
+			<DataProcessor>Zod_АдаптерТрансформера</DataProcessor>
 			<DataProcessor>Zod_Проверка_ИНН</DataProcessor>
 			<DataProcessor>Zod_Схема</DataProcessor>
 			<DataProcessor>Zod_Тест_Проверка</DataProcessor>
 			<DataProcessor>Zod_Тест_ПроверкаСИсключением</DataProcessor>
 			<DataProcessor>Zod_Трансформер_ПустоеВНеопределено</DataProcessor>
 			<DataProcessor>Zod_Трансформер_Телефон</DataProcessor>
+			<DataProcessor>Zod_Трансформеры</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
