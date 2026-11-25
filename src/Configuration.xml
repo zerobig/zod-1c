@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>0.3.0</Version>
+			<Version>0.4.0</Version>
 			<Caption/>
 			<ShortCaption/>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
@@ -70,6 +70,7 @@
 			<CommonModule>Zod_ДатаТесты</CommonModule>
 			<CommonModule>Zod_ДопускаетNullТесты</CommonModule>
 			<CommonModule>Zod_ЗаписьТесты</CommonModule>
+			<CommonModule>Zod_Коллекции</CommonModule>
 			<CommonModule>Zod_КомпозицияТесты</CommonModule>
 			<CommonModule>Zod_ЛитералИДискриминированноеОбъединениеТесты</CommonModule>
 			<CommonModule>Zod_МанипуляцииПолямиТесты</CommonModule>
@@ -88,6 +89,8 @@
 			<CommonModule>Zod_СтрокаТесты</CommonModule>
 			<CommonModule>Zod_УтилитыТесты</CommonModule>
 			<CommonModule>Zod_ЧислоТесты</CommonModule>
+			<CommonModule>ZodX</CommonModule>
+			<CommonModule>ZodXТесты</CommonModule>
 			<Catalog>Zod_Справочник1</Catalog>
 			<Document>Zod_Документ1</Document>
 			<DataProcessor>Zod_АдаптерТрансформера</DataProcessor>
@@ -98,6 +101,13 @@
 			<DataProcessor>Zod_Трансформер_ПустоеВНеопределено</DataProcessor>
 			<DataProcessor>Zod_Трансформер_Телефон</DataProcessor>
 			<DataProcessor>Zod_Трансформеры</DataProcessor>
+			<DataProcessor>ZodX_Локализация</DataProcessor>
+			<DataProcessor>ZodX_Обертка</DataProcessor>
+			<DataProcessor>ZodX_Приведение</DataProcessor>
+			<DataProcessor>ZodX_Псевдонимы</DataProcessor>
+			<DataProcessor>ZodX_РезолверЗначений</DataProcessor>
+			<DataProcessor>ZodX_ТестовыйПлагин</DataProcessor>
+			<DataProcessor>ZodX_ТестовыйРезолвер</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
